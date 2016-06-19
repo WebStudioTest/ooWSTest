@@ -1,3 +1,2 @@
 # ooWSTest
-ooWSTest
-test git import
+Uses for test git import feature
